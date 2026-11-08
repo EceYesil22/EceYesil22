@@ -3,7 +3,8 @@
 
 Ich bin Ece, eine technikbegeisterte Entwicklerin, die gerne kleinere Projekte umsetzt, experimentiert und ständig Neues dazulernt.
 
-💻 Über mich
+
+💻 Über mich:
 
 
 🐍 Ich programmiere gerne mit Python und entwickle kleine eigene Projekte. 
@@ -17,7 +18,11 @@ Ich bin Ece, eine technikbegeisterte Entwicklerin, die gerne kleinere Projekte u
 🚀 Ich möchte mein technisches Wissen vertiefen und immer neue Herausforderungen ausprobieren.
 
 
+
+
 Technologien & Tools:
+
+
 
 Python · Linux · SQL · Blender · Git
 
@@ -28,6 +33,7 @@ Ein bisschen mehr über mich:
 📚 Immer bereit, etwas Neues zu lernen
 
 🛠️ Am liebsten lerne ich durch Ausprobieren und eigene Projekte
+
 
 
 Schön, dass du vorbeischaust! 💜
