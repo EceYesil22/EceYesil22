@@ -1,7 +1,7 @@
 # Hallo 👋
 
 
-### Ich bin (Ece)[ece yesildaglar-lebenslauf.pdf] , eine technikbegeisterte Entwicklerin, die gerne kleinere Projekte umsetzt, experimentiert und ständig Neues dazulernt.
+### Ich bin [Ece] , eine technikbegeisterte Entwicklerin, die gerne kleinere Projekte umsetzt, experimentiert und ständig Neues dazulernt.
 
 
 ## 💻 Über mich:
