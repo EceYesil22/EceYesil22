@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hallo 👋
 
-<!--
-**EceYesil22/EceYesil22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ich bin Ece, eine technikbegeisterte Entwicklerin, die gerne kleinere Projekte umsetzt, experimentiert und ständig Neues dazulernt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Über mich
+
+🐍 Ich programmiere gerne mit Python und entwickle kleine eigene Projekte.
+🐧 Ich interessiere mich für Linux, Netzwerktechnik und Computerhardware.
+🎨 Neben dem Programmieren beschäftige ich mich auch mit Blender und kreativen Projekten.
+🔐 Mein langfristiges Ziel ist es, mich in Richtung Cybersecurity und IT-Sicherheit weiterzuentwickeln.
+🚀 Ich möchte mein technisches Wissen vertiefen und immer neue Herausforderungen ausprobieren.
+
+Technologien & Tools
+
+Python · Linux · SQL · Blender · Git
+
+Ein bisschen mehr über mich
+
+🧠 Analytisch, neugierig und lösungsorientiert
+📚 Immer bereit, etwas Neues zu lernen
+🛠️ Am liebsten lerne ich durch Ausprobieren und eigene Projekte
+
+Schön, dass du vorbeischaust! 💜
