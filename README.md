@@ -1,4 +1,4 @@
-## Hallo 👋
+# Hallo 👋
 
 
 Ich bin Ece, eine technikbegeisterte Entwicklerin, die gerne kleinere Projekte umsetzt, experimentiert und ständig Neues dazulernt.
