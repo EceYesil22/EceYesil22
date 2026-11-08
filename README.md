@@ -1,7 +1,7 @@
 # Hallo 👋
 
 
-### Ich bin [Ece] , eine technikbegeisterte Entwicklerin, die gerne kleinere Projekte umsetzt, experimentiert und ständig Neues dazulernt.
+### Ich bin [Ece](https://github.com/EceYesil22/Lebenslauf/blob/503ee6c0ab117e50c160203a344a98a500fc2a67/ece%20yesildaglar-lebenslauf.pdf), eine technikbegeisterte Entwicklerin, die gerne kleinere Projekte umsetzt, experimentiert und ständig Neues dazulernt.
 
 
 ## 💻 Über mich:
